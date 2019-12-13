@@ -9,10 +9,3 @@ class Dog
 end
 
 puts lassie.name
-
-property=  
-
-lassie = Dog.new
-lassie.name=("Lassie")
- 
-lassie.name
